@@ -1,8 +1,8 @@
-let inputExerciseOne = 
-let inputExerciseTwo =
-let inputExerciseThree =
-let inputExerciseFour =
-let inputExerciseFive =    
+let inputExerciseOne = 'Hello, World! OpenAI is amazing'
+let inputExerciseTwo = 'Hello, World!'
+let inputExerciseThree = 'babad'
+let inputExerciseFour = "hello. how are you? i'm fine, thank you."
+let inputExerciseFive = 'racecar'
 
 
 // test 1)
